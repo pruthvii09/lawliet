@@ -20,6 +20,7 @@ const Navbar = () => {
         <li>TERMS</li>
         <li className={styles.icon_li}>
           <i className="bx bx-search"></i>
+          <input type="text" placeholder="Search..." />
         </li>
       </div>
       <div className={styles.menu}>

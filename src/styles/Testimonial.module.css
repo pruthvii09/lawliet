@@ -82,7 +82,7 @@
 }
 @media screen and (max-width:769px) {
     .main_container{
-        padding: 9px 10px;
+        padding: 40px 10px;
     }
     .flex_container{
         display: flex;
@@ -90,6 +90,9 @@
     }
     .individual_container{
         height: 180px;
+    }
+    .user{
+        justify-content: flex-start;
     }
     .question .question_img {
         display: none;
