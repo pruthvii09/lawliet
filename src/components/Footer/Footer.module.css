@@ -63,3 +63,28 @@
     border-radius: 50%;
     font-size: 20px;
 }
+
+@media screen and (max-width:769px) {
+    .main_container{
+        text-align: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        padding: 9px 10px;
+        gap: 10px;
+    }
+    .logo{
+        margin-bottom: 30px;
+    }
+    .footer_links{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .footer_links strong{
+        margin-bottom: 5px !important;
+    }
+    .main_footer{
+        padding: 9px 10px;
+    }
+}

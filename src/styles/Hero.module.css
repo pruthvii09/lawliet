@@ -126,7 +126,28 @@
     .hero_section{
         padding: 9px 10px;
     }
-    .hero_section .hero_img img{
+    .hero_section .hero_img{
         display: none;
+    }
+    .hero_heading{
+        font-family: 'Playfair Display';
+        font-weight: 700;
+        font-size:60px;
+        color: #094B72;
+    }
+    .hero_new .text_info{
+        color: #094b72;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 36px;
+    }
+    .hero_new{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 4px 21px 4px 6px;
+        border-radius: 60px;
+        background: #E7F6FF;
+        width: fit-content;
     }
 }

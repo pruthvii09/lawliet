@@ -38,3 +38,18 @@ line-height: 64px;
 font-size: 18px;
 line-height: 32px;
 }
+@media screen and (max-width:769px) {
+    .main_container{
+        padding: 9px 10px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .counter{
+        display: flex;
+        flex-direction: column;
+    }
+    .individual_counter{
+        border: none !important;
+    }
+}
