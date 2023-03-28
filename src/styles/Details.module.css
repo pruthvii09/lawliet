@@ -1,0 +1,40 @@
+.main_container{
+    padding: 30px 165px;
+    display: flex;
+    background: #F2F7FF;
+    gap: 15px;
+    justify-content: space-between;
+    /* margin-top: 20px; */
+}
+.heading{
+    font-family: 'Playfair Display';
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+}
+.card{
+    padding: 20px 10px;
+    border-radius: 10px;
+    background: white;
+    -webkit-box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+    box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+}
+.card p{
+    margin-top: 10px;
+    color: #8B8C8C;
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.flex_card{
+    
+    margin-bottom: 30px;
+    display: flex;
+    gap: 25px;
+}
+.card_heading{
+    font-family: 'Playfair Display';
+    font-size: 22px;
+    font-weight: bold;
+}

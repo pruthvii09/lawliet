@@ -1,0 +1,40 @@
+.main_container{
+    padding: 30px 165px;
+    background: #F2F7FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background: #094B72;
+    color: white;
+}
+.main_container .counter_heading{
+    font-size: 48px;
+    font-family: 'Playfair Display';
+    line-height: 64px;
+    font-weight: 900;
+}
+.main_container .counter{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 20px;
+    margin-left: 45px;
+    justify-content: center;
+}
+.individual_counter{
+    padding: 0px 30px;
+}
+.individual_counter div{
+    font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+/* padding: 15px; */
+}
+.individual_counter p{
+    font-weight: 200;
+font-size: 18px;
+line-height: 32px;
+}
