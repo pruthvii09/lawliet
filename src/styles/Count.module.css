@@ -46,7 +46,7 @@ line-height: 32px;
         text-align: center;
     }
     .counter{
-        display: flex;
+        margin-left: 0 !important;
         flex-direction: column;
     }
     .individual_counter{
