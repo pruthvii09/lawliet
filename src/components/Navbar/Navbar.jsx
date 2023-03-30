@@ -23,7 +23,12 @@ const Navbar = () => {
           <input type="text" placeholder="Search..." />
         </li>
       </div>
-      <div className={styles.menu}>
+      <div
+        style={{ zIndex: "100" }}
+        className={
+          menu ? `${styles.menu}` : `${styles.menu} ${styles.active_menu}`
+        }
+      >
         <i
           onClick={() => setMenu(!menu)}
           className={menu ? "bx bx-menu" : "bx bx-x"}

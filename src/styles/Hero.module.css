@@ -150,4 +150,16 @@
         background: #E7F6FF;
         width: fit-content;
     }
+    .dialogue_box{
+        position: absolute;
+        top: 100px;
+        left: 20px;
+        padding: 50px 50px;
+        width: 250px;
+        transition: all 1s;
+        background-color: white;
+        -webkit-box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+        -moz-box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+        box-shadow: 6px 4px 13px -7px rgba(0,0,0,0.75);
+    }
 }

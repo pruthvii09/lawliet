@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Instructions for execution of Lawliet Evaluation Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### I am writing to share the instruction file for my project with you. The purpose of this document is to provide clear and detailed instructions on how to execute the project successfully.
 
-## Available Scripts
+#### I have taken great care to ensure that the instructions are comprehensive and accurate. If you have any questions or concerns about the content of this file, please do not hesitate to reach out to me for clarification.
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+Install the Lawliet project using npm.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- First, download and install node on your computer.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Then, Download the zip file to a directory.
+* Extract the zip file to create the folder lawliet-main, then open the folder.
 
-### `npm test`
+* Please launch the terminal at the folder's location.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Execute following command in the terminal to install all required dependencies on your local machine, and then start the project.
 
-### `npm run build`
+```bash
+  npm i
+  npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- A development server will be launched at localhost:3000.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I've launched this project on the Vercel app for your convenience. The project is accessible at the following link.
 
-### `npm run eject`
+[Access the project by clicking this link.](https://lawliet.vercel.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Access the Github repository for the project by clicking this link.](https://github.com/pruthvii09/lawliet)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Landing page of the application.
+  ![](https://i.ibb.co/wMk9HQk/Capture.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+![](https://i.ibb.co/njBzfFN/Capture.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![](https://i.ibb.co/w7jM0C4/Capture.png)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](https://i.ibb.co/tCspYFw/Capture.png)
